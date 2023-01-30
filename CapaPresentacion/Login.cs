@@ -21,15 +21,15 @@ namespace CapaPresentacion
         {
             this.Close();   
         }
-
         private void btn_ingresar_Click(object sender, EventArgs e)
         {
-            Inicio form1= new Inicio();
+            Inicio form1 = new Inicio();
             form1.ShowDialog();
 
             txt_documento.Text = "";
             txt_contrasena.Text = "";
-            
+
         }
+
     }
 }
