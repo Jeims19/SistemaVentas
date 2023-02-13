@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaEntidades;
+using CapaNegocio;
 
 namespace CapaPresentacion
 {
@@ -23,6 +25,11 @@ namespace CapaPresentacion
         }
         private void btn_ingresar_Click(object sender, EventArgs e)
         {
+            Usuario ousuario = new CN_Usuario().Listar().
+                Where(u => u.Documento == txt_documento.Text //uso de expresiones lambda// ayuda a automatizar la busqueda de un usuario en nuestra lista
+                && u.Clave == txt_contrasena.Text).FirstOrDefault(); //que nos traiga el primero
+
+            
             Inicio form1 = new Inicio();
             form1.ShowDialog();
 
