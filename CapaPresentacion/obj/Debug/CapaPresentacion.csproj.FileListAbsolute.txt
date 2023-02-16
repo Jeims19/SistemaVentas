@@ -26,3 +26,9 @@ E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.Co
 E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaData.dll
+E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaData.pdb

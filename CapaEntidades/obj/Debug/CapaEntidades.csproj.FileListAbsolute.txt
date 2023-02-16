@@ -1,0 +1,6 @@
+E:\Proyectos\SistemaVentas\CapaEntidades\bin\Debug\CapaEntidades.dll
+E:\Proyectos\SistemaVentas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+E:\Proyectos\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+E:\Proyectos\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+E:\Proyectos\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.dll
+E:\Proyectos\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.pdb

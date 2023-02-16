@@ -13,10 +13,10 @@ namespace CapaData
 {
     public class CD_Usuario // este metodo lo llamara la capa de negocio
     {
-        public List<Usuario> Listar() { //devolver una lista de usuarios
+        public List<Usuario> Listar() { //metodo para devolver una lista de usuarios
             List<Usuario> lista=new List<Usuario>(); //creando una lista vacia
 
-            using (SqlConnection oconexion = new SqlConnection("Conexion.cadena")) //conectarme a la bd con la cadena de conexion
+            using (SqlConnection oconexion = new SqlConnection(Conexion.cadena)) //conectarme a la bd con la cadena de conexion
             {   //peticion hacia loa base de datos
                 try
                 {
@@ -35,7 +35,7 @@ namespace CapaData
                                 Documento = dr["Documento"].ToString(),
                                 NombreCompleto = dr["NombreCompleto"].ToString(),
                                 Correo = dr["Correo"].ToString(),
-                                Clave = Convert.ToInt32(dr["Clave"]),
+                                Clave = dr["Clave"].ToString(),
                                 Estado = Convert.ToBoolean(dr["Estado"]),
                             }) ;
                         }

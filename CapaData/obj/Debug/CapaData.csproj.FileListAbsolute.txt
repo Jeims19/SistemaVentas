@@ -1,0 +1,9 @@
+E:\Proyectos\SistemaVentas\CapaData\obj\Debug\CapaData.csproj.AssemblyReference.cache
+E:\Proyectos\SistemaVentas\CapaData\obj\Debug\CapaData.csproj.CoreCompileInputs.cache
+E:\Proyectos\SistemaVentas\CapaData\bin\Debug\CapaData.dll
+E:\Proyectos\SistemaVentas\CapaData\bin\Debug\CapaData.pdb
+E:\Proyectos\SistemaVentas\CapaData\bin\Debug\CapaEntidades.dll
+E:\Proyectos\SistemaVentas\CapaData\bin\Debug\CapaEntidades.pdb
+E:\Proyectos\SistemaVentas\CapaData\obj\Debug\CapaData.csproj.CopyComplete
+E:\Proyectos\SistemaVentas\CapaData\obj\Debug\CapaData.dll
+E:\Proyectos\SistemaVentas\CapaData\obj\Debug\CapaData.pdb
