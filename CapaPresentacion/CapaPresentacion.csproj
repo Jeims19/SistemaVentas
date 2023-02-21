@@ -53,6 +53,54 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frm_categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_categoria.Designer.cs">
+      <DependentUpon>frm_categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_clientes.Designer.cs">
+      <DependentUpon>frm_clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_compras.Designer.cs">
+      <DependentUpon>frm_compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_producto.Designer.cs">
+      <DependentUpon>frm_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_proveedores.Designer.cs">
+      <DependentUpon>frm_proveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_reportes.Designer.cs">
+      <DependentUpon>frm_reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_usuario.Designer.cs">
+      <DependentUpon>frm_usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ventas.Designer.cs">
+      <DependentUpon>frm_ventas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +115,30 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_categoria.resx">
+      <DependentUpon>frm_categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_clientes.resx">
+      <DependentUpon>frm_clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_compras.resx">
+      <DependentUpon>frm_compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_producto.resx">
+      <DependentUpon>frm_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_proveedores.resx">
+      <DependentUpon>frm_proveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_reportes.resx">
+      <DependentUpon>frm_reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_usuario.resx">
+      <DependentUpon>frm_usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ventas.resx">
+      <DependentUpon>frm_ventas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Inicio.resx">
       <DependentUpon>Inicio.cs</DependentUpon>
     </EmbeddedResource>

@@ -28,12 +28,12 @@ namespace CapaPresentacion
 
             List<Usuario> TEST = new CN_Usuario().Listar(); //muestra lista completa de usuarios
             
-            Usuario ousuario = new CN_Usuario().Listar(). //valida si existe el usuario
+            Usuario ousuario = new CN_Usuario().Listar(). //busca el usuario dentro de la lista
                 Where(u => u.Documento == txt_documento.Text //uso de expresiones lambda// ayuda a automatizar la busqueda de un usuario en nuestra lista
                 && u.Clave == txt_contrasena.Text).FirstOrDefault(); //que nos traiga el primero
             if(ousuario != null)
             {
-                Inicio form1 = new Inicio();
+                Inicio form1 = new Inicio(ousuario); //mandar ousuario a Inicio para capturar datos
                 form1.ShowDialog();
 
                 txt_documento.Text = "";

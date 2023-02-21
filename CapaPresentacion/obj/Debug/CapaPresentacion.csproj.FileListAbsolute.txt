@@ -32,3 +32,11 @@ E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaData.dll
 E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
 E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
 E:\Proyectos\SistemaVentas\CapaPresentacion\bin\Debug\CapaData.pdb
+E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frm_categoria.resources
+E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frm_clientes.resources
+E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frm_compras.resources
+E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frm_producto.resources
+E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frm_proveedores.resources
+E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frm_reportes.resources
+E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frm_usuario.resources
+E:\Proyectos\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frm_ventas.resources
